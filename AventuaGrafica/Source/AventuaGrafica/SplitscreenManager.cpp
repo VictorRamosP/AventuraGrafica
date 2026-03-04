@@ -27,3 +27,4 @@ void ASplitscreenManager::BeginPlay()
 
     l_Viewport->UpdateActiveSplitscreenType();
 }
+
